@@ -1,0 +1,6 @@
+{
+  "name": "Açaizaço",
+  "description": "Loja online oficial da Açaizaço - Açaí tradicional, milk-shakes trufados e vitaminas com pedido direto no WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
